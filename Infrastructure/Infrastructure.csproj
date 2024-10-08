@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Data\Postgres\" />
+    <None Remove="Data\Postgres\Entities\" />
+    <None Remove="Data\Postgres\EntityFramework\" />
+    <None Remove="Data\Postgres\Migrations\" />
+    <None Remove="Data\Postgres\EntityFramework\Configurations\" />
+    <None Remove="Data\Postgres\EntityFramework\Configurations\Base\" />
+    <None Remove="Data\Postgres\Repositories\" />
+    <None Remove="Data\Postgres\Repositories\Base\" />
+    <None Remove="Data\Postgres\Repositories\Interface\" />
+    <None Remove="Data\Postgres\Repositories\Base\Interface\" />
+    <None Remove="Data\Postgres\Entities\Base\" />
+    <None Remove="Data\Postgres\Entities\File\" />
+    <None Remove="Data\Postgres\Entities\Base\Interface\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Postgres\" />
+    <Folder Include="Data\Postgres\Entities\" />
+    <Folder Include="Data\Postgres\EntityFramework\" />
+    <Folder Include="Data\Postgres\Migrations\" />
+    <Folder Include="Data\Postgres\EntityFramework\Configurations\" />
+    <Folder Include="Data\Postgres\EntityFramework\Configurations\Base\" />
+    <Folder Include="Data\Postgres\Repositories\" />
+    <Folder Include="Data\Postgres\Repositories\Base\" />
+    <Folder Include="Data\Postgres\Repositories\Interface\" />
+    <Folder Include="Data\Postgres\Repositories\Base\Interface\" />
+    <Folder Include="Data\Postgres\Entities\Base\" />
+    <Folder Include="Data\Postgres\Entities\File\" />
+    <Folder Include="Data\Postgres\Entities\Base\Interface\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.3" />
+  </ItemGroup>
+</Project>

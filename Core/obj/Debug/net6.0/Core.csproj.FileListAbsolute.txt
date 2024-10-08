@@ -1,0 +1,48 @@
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/bin/Debug/net6.0/Core.deps.json
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/backkend/SaglikKontrol/Core/obj/Debug/net6.0/ref/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/bin/Debug/net6.0/Core.deps.json
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav/Core/obj/Debug/net6.0/ref/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/bin/Debug/net6.0/Core.deps.json
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Core/obj/Debug/net6.0/ref/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/bin/Debug/net6.0/Core.deps.json
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/refint/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Core/obj/Debug/net6.0/ref/Core.dll

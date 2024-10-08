@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using emreBackend.Models;
+using taskSinav.Models;
 
-namespace emreBackend.Controllers;
+namespace taskSinav.Controllers;
 
 public class HomeController : Controller
 {

@@ -1,4 +1,4 @@
-﻿namespace emreBackend.Models;
+﻿namespace taskSinav.Models;
 
 public class ErrorViewModel
 {

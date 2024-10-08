@@ -1,0 +1,35 @@
+/Users/emreozyoruk/Desktop/Projeler/sinav/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/sinav/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/sinav/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete

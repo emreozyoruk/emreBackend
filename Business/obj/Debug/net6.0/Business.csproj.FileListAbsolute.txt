@@ -1,0 +1,34 @@
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Business.deps.json
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Business.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/bin/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.csproj.CopyComplete
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/refint/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/Business.pdb
+/Users/emreozyoruk/Desktop/Projeler/sinav 2/Business/obj/Debug/net6.0/ref/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Business.deps.json
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Business.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Core.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Infrastructure.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Core.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/bin/Debug/net6.0/Infrastructure.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.csproj.AssemblyReference.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.AssemblyInfoInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.AssemblyInfo.cs
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.csproj.CoreCompileInputs.cache
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/refint/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.pdb
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/ref/Business.dll
+/Users/emreozyoruk/Desktop/Projeler/emreBackend/Business/obj/Debug/net6.0/Business.csproj.CopyComplete
